@@ -4,10 +4,8 @@ title:      "Hello 2024"
 subtitle:   " \"Hello World, Hello website\""
 date:       2024-10-01 19:30:00
 author:     "xiaodi1001"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/infinity-13091722.jpg"
 catalog: true
-tags:
-    - Meta
 ---
 
 > “I am new here. ”
