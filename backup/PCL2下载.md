@@ -6,7 +6,7 @@
 
 ## 蓝奏云下载地址[点击此处前往](https://ltcat.lanzouv.com/b0aj6gsid)，**如有密码 pcl2**
 
-# (推荐)直链下载地址[点击此处前往](https://vip.123pan.cn/1830836551/9613643)
+# (推荐)直链下载地址[点击此处立即下载](https://vip.123pan.cn/1830836551/11065951)
 
 ##### (不推荐)其他下载地址[点击此处前往](https://pan.baidu.com/s/1fp4BbO96DHcr_Ro_xcpyJQ?pwd=4rst)
 
